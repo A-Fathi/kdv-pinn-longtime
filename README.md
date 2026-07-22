@@ -150,7 +150,7 @@ The script verifies required files, archive schemas, model state dictionaries, a
 
 ## Citation
 
-Citation metadata is provided in `CITATION.cff`. The Zenodo software DOI will be added after GitHub release `v1.0.0` is archived.
+Citation metadata is provided in `CITATION.cff`. Zenodo software DOI: 10.5281/zenodo.21497569.
 
 ## License
 
