@@ -13,20 +13,14 @@ abstract: >-
 authors:
   - given-names: Ahmed
     family-names: Fathi
-    affiliation: Department of Mathematics and Computer Sciences, Faculty of Science, Alexandria University, Alexandria 21511, Egypt
-  - given-names: Gharam A.
-    family-names: Alharshan
-    affiliation: Department of Physics, College of Science, Princess Nourah bint Abdulrahman University, Riyadh 11671, Saudi Arabia
-  - given-names: Shatha A.
-    family-names: Aldaghfag
-    affiliation: Department of Physics, College of Science, Princess Nourah bint Abdulrahman University, Riyadh 11671, Saudi Arabia
-  - given-names: Pralay Kumar
-    family-names: Karmakar
-    affiliation: Department of Physics, Tezpur University, Napaam, Tezpur 784028, India
-  - given-names: A.
+    affiliation: Department of Mathematics and Computer Sciences, Faculty of Science, Alexandria University, Alexandria, Egypt
+  - given-names: Baraa
+    family-names: Ahmed
+    affiliation: Arab Academy of Science, Technology and Maritime Transport, Alexandria, Egypt
+  - given-names: Ahmed
     family-names: Atteya
     email: ahmedatteya@alexu.edu.eg
-    affiliation: Department of Physics, Faculty of Science, Alexandria University, Alexandria 21511, Egypt
+    affiliation: Department of Physics, Faculty of Science, Alexandria University, Alexandria, Egypt
 keywords:
   - Korteweg-de Vries equation
   - physics-informed neural networks
