@@ -5,7 +5,7 @@ Large numerical archives, trained PyTorch state dictionaries, model bundles, and
 Dataset DOI:
 
 ```text
-REPLACE_WITH_RESERVED_DATASET_DOI
+10.5281/zenodo.21497569
 ```
 
 After downloading the dataset, extract the three component ZIP files at the project root so that they create:
