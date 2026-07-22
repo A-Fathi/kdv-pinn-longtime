@@ -1,0 +1,13 @@
+{
+  "software_version": "1.0.0",
+  "python": "3.12.13",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "numpy": "2.0.2",
+  "scipy": "1.16.3",
+  "matplotlib": "3.10.0",
+  "torch": "2.11.0+cu128",
+  "cuda_runtime": "12.8",
+  "cuda_available": true,
+  "gpu": "Tesla T4",
+  "reported_gpu": "NVIDIA Tesla T4"
+}
