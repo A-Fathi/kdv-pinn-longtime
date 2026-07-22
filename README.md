@@ -55,7 +55,7 @@ The publication notebook is deliberately configured to use:
 Dataset DOI:
 
 ```text
-REPLACE_WITH_RESERVED_DATASET_DOI
+10.5281/zenodo.21497569
 ```
 
 From the dataset record, download:
