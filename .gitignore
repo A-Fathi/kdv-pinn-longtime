@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Large numerical/data artifacts are deposited on Zenodo.
+data/processed/
+data/models/
+data/source_data/
+
+# Generated figures and local release payloads.
+outputs/
+*.zip
+
+# Local Colab/runtime artifacts.
+*.log
+environment.local.json

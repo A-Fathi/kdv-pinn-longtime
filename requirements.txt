@@ -1,0 +1,5 @@
+# Versions recorded in the final Google Colab/Tesla T4 run.
+numpy==2.0.2
+scipy==1.16.3
+matplotlib==3.10.0
+torch==2.11.0

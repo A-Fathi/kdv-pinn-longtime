@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "Please cite this software and the associated manuscript."
+title: "Code for Long-Time KdV Soliton Propagation Using Co-Moving Conservation-Regularized Physics-Informed Neural Networks"
+type: software
+version: 1.0.0
+date-released: 2026-07-21
+license: MIT
+abstract: >-
+  Google Colab and Python code for generating an ETDRK4 numerical reference,
+  training matched laboratory-frame and co-moving-frame physics-informed neural
+  networks, applying PDE-dominant and conservation-aware optimization stages,
+  computing diagnostics, and reproducing the main and supplementary figures.
+authors:
+  - given-names: Ahmed
+    family-names: Fathi
+    affiliation: Department of Mathematics and Computer Sciences, Faculty of Science, Alexandria University, Alexandria 21511, Egypt
+  - given-names: Gharam A.
+    family-names: Alharshan
+    affiliation: Department of Physics, College of Science, Princess Nourah bint Abdulrahman University, Riyadh 11671, Saudi Arabia
+  - given-names: Shatha A.
+    family-names: Aldaghfag
+    affiliation: Department of Physics, College of Science, Princess Nourah bint Abdulrahman University, Riyadh 11671, Saudi Arabia
+  - given-names: Pralay Kumar
+    family-names: Karmakar
+    affiliation: Department of Physics, Tezpur University, Napaam, Tezpur 784028, India
+  - given-names: A.
+    family-names: Atteya
+    email: ahmedatteya@alexu.edu.eg
+    affiliation: Department of Physics, Faculty of Science, Alexandria University, Alexandria 21511, Egypt
+keywords:
+  - Korteweg-de Vries equation
+  - physics-informed neural networks
+  - PINNs
+  - co-moving coordinates
+  - long-time propagation
+  - conservation regularization
+  - soliton
