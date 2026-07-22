@@ -1,0 +1,24 @@
+metric,configuration,time_scope,value,source_file,source_variable
+relative_L2_final,laboratory_stage1,tau=80,0.90678596,Figure1_source_data.csv,lab_relL2_stage1
+crest_drift_maximum,laboratory_stage1,"tau in [0,80]",53.963326,Figure1_source_data.csv,lab_crest_stage1
+invariant_envelope_maximum,laboratory_stage1,"tau in [0,80]",0.9879481,Figure1_source_data.csv,lab_invenv_stage1
+relative_L2_final,laboratory_stage2,tau=80,0.9832598,Figure1_source_data.csv,lab_relL2_stage2
+crest_drift_maximum,laboratory_stage2,"tau in [0,80]",52.39644,Figure1_source_data.csv,lab_crest_stage2
+invariant_envelope_maximum,laboratory_stage2,"tau in [0,80]",0.66215557,Figure1_source_data.csv,lab_invenv_stage2
+relative_L2_final,comoving_stage1,tau=80,0.0055529717,Figure1_source_data.csv,comov_relL2_stage1
+crest_drift_maximum,comoving_stage1,"tau in [0,80]",0.0073170373,Figure1_source_data.csv,comov_crest_stage1
+invariant_envelope_maximum,comoving_stage1,"tau in [0,80]",0.0077006635,Figure1_source_data.csv,comov_invenv_stage1
+relative_L2_final,comoving_stage2,tau=80,0.0015002965,Figure1_source_data.csv,comov_relL2_stage2
+crest_drift_maximum,comoving_stage2,"tau in [0,80]",0.0021446194,Figure1_source_data.csv,comov_crest_stage2
+invariant_envelope_maximum,comoving_stage2,"tau in [0,80]",0.0005691356,Figure1_source_data.csv,comov_invenv_stage2
+space_time_absolute_error_maximum,comoving_stage2,saved space-time grid,0.0004296600818634033,Figure5_source_data.npz,abs_err_stage2
+masked_rho_median,comoving_stage2,tau=60,0.0011705528013408184,Supplementary_Figure_S1_source_data.npz,Rho_masked
+masked_rho_95th_percentile,comoving_stage2,tau=60,0.01633447557687759,Supplementary_Figure_S1_source_data.npz,Rho_masked
+masked_rho_maximum,comoving_stage2,tau=60,0.029215537011623383,Supplementary_Figure_S1_source_data.npz,Rho_masked
+masked_rho_median,comoving_stage2,tau=80,0.0018584451172500849,Supplementary_Figure_S1_source_data.npz,Rho_masked
+masked_rho_95th_percentile,comoving_stage2,tau=80,0.04681635648012161,Supplementary_Figure_S1_source_data.npz,Rho_masked
+masked_rho_maximum,comoving_stage2,tau=80,0.1786186546087265,Supplementary_Figure_S1_source_data.npz,Rho_masked
+shift_maximum_absolute_difference,reference_shift_check,tau=60,8.326672684688674e-16,Supplementary_Figure_S2_source_data.npz,max_abs_difference_tau60
+shift_relative_L2_difference,reference_shift_check,tau=60,2.208589553030831e-15,Supplementary_Figure_S2_source_data.npz,relative_L2_difference_tau60
+shift_maximum_absolute_difference,reference_shift_check,tau=80,1.2120124093240037e-07,Supplementary_Figure_S2_source_data.npz,max_abs_difference_tau80
+shift_relative_L2_difference,reference_shift_check,tau=80,1.6344699912801036e-07,Supplementary_Figure_S2_source_data.npz,relative_L2_difference_tau80
