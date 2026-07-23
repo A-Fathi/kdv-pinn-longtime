@@ -150,7 +150,11 @@ The script verifies required files, archive schemas, model state dictionaries, a
 
 ## Citation
 
-Citation metadata is provided in `CITATION.cff`. Zenodo software DOI: 10.5281/zenodo.21497569.
+Citation metadata is provided in CITATION.cff.
+
+Dataset DOI: 10.5281/zenodo.21497569
+
+Software DOI: 10.5281/zenodo.21516417
 
 ## License
 
